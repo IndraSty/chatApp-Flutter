@@ -1,0 +1,22 @@
+{
+    "connections": [
+        "mdsuarduka064@gmail.com",
+        "indrastyawan064@gmail.com"
+    ],
+    "chat": [
+        {
+            "pengirim": "mdsuarduka064@gmail.com",
+            "penerima": "indrastyawan064@gmail.com",
+            "pesan": "Hallo bang..",
+            "time": "2023-03-04T06:24:39.111Z",
+            "isRead": true
+        },
+        {
+            "pengirim": "mdsuarduka064@gmail.com",
+            "penerima": "indrastyawan064@gmail.com",
+            "pesan": "Hallo cil..",
+            "time": "2023-03-04T06:27:39.111Z",
+            "isRead": false
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uid" : "CRntxJkiPuNcjw0erZplf9yAGrH2",
+    "email" : "mdsuardika064@gmail.com",
+    "keyName" : "I",
+    "name" : "Indra Styawan",
+    "img" : "https://lh3.googleusercontent.com/a/AGNmyxZnG7FLhpq-VBXO1ZU0oiBJxxLFjtsGPsuZ1w6P0w=s96-c",
+    "phone" : null,
+    "status" : "Sleep",
+    "create_at" : "2023-03-03T03:55:28.773Z",
+    "lastSignInTime" : "2023-03-03T10:14:26.162Z",
+    "update_at" : "2023-03-03T16:20:32.551193",
+    "chats" : [
+        {
+            "connection": "yirn2020@gmail.com",
+            "chat_id": "W06uindkhhEgbfjjY768u",
+            "lastTime": "2023-03-03T16:20:32.551193",
+            "total_unread": 0
+        },
+        {
+            "connection": "indrastyawan064@gmail.com",
+            "chat_id": "RThdjkjk09djjg6H7djkt",
+            "lastTime": "2023-03-03T16:20:32.551193",
+            "total_unread": 0
+        }
+    ]
+
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "791033995290",
+    "project_id": "chatapp-indra",
+    "storage_bucket": "chatapp-indra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791033995290:android:c4f77e686ef2b16447f1a3",
+        "android_client_info": {
+          "package_name": "com.example.chatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791033995290-uiuspqu81qa89jchc0fe12tsnovboh2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapps",
+            "certificate_hash": "885b32b8250b9b7762f1b8b0e5bbd0aeac4abbba"
+          }
+        },
+        {
+          "client_id": "791033995290-msor1a1f2omqm0muvphvmbjmilude8vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9nljq5Li8y8tUCAAXo4NMxiDXQP27l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791033995290-msor1a1f2omqm0muvphvmbjmilude8vj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791033995290-sqlsfhqdh5onq65fo0ms1si84m9utsvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatapps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
